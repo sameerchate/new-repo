@@ -1,0 +1,14 @@
+print("I'm alive")
+1+3
+1+3*2
+type(1=2)
+type(1+2)
+type(TRUE)
+type("true")
+True
+type(True)
+1 == 2
+cd workshop
+history.txt
+hist.txt
+%history -f hist.txt
